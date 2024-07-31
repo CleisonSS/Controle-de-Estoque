@@ -2,8 +2,8 @@
 Controle de estoque
 
 # Pré requisitos:
-- Baixar e instalar postgresql no modo administrador, deixar marcado os componentes "PostgreSQL Server" e "pgAdmin 4"
-- Baixar e instalar JDK 8
+- Baixar e instalar postgresql no modo administrador, deixar marcado os componentes "PostgreSQL Server" e "pgAdmin 4" (download: https://www.postgresql.org/download/)
+- Baixar e instalar JDK 8 (download: https://www.oracle.com/br/java/technologies/javase/javase8u211-later-archive-downloads.html)
 
 # Configuração:
 **Alternativa 1:**
